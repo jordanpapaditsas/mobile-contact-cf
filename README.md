@@ -1,4 +1,4 @@
-# Mobile Contact-App-Coding Factory
+# [Coding Factory](https://codingfactory.aueb.gr/)
 
 ## Mobile Contact App
 The Mobile Contact App is a simple application that allows users to manage their contacts.  
